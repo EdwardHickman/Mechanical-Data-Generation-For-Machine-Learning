@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="72902107-4f42-48c0-ad10-e019a527ebff" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package/extra.py" beforeDir="false" afterPath="$PROJECT_DIR$/package/extra.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package/homepage.py" beforeDir="false" afterPath="$PROJECT_DIR$/package/homepage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package/output_png/Kynar Flex® 2750-01_-30°C.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/package/output_png/Kynar Flex® 2750-01_-30°C.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package/output_png/Kynar Flex® 2750-01_100°C.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/package/output_png/Kynar Flex® 2750-01_100°C.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package/output_png/Kynar Flex® 2750-01_120°C.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/package/output_png/Kynar Flex® 2750-01_120°C.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package/output_png/Kynar Flex® 2750-01_23°C.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/package/output_png/Kynar Flex® 2750-01_23°C.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package/output_png/Kynar Flex® 2750-01_60°C.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/package/output_png/Kynar Flex® 2750-01_60°C.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package/output_png/Kynar Flex® 2750-01_80°C.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/package/output_png/Kynar Flex® 2750-01_80°C.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package/output_png/Kynar Flex® 2800-00_-30°C.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/package/output_png/Kynar Flex® 2800-00_-30°C.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package/output_png/Kynar Flex® 2800-00_100°C.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/package/output_png/Kynar Flex® 2800-00_100°C.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package/output_png/Kynar Flex® 2800-00_120°C.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/package/output_png/Kynar Flex® 2800-00_120°C.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package/output_png/Kynar Flex® 2800-00_23°C.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/package/output_png/Kynar Flex® 2800-00_23°C.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package/output_png/Kynar Flex® 2800-00_60°C.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/package/output_png/Kynar Flex® 2800-00_60°C.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package/output_png/Kynar Flex® 2800-00_80°C.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/package/output_png/Kynar Flex® 2800-00_80°C.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package/output_png/Kynar Flex® 2850-00_100°C.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/package/output_png/Kynar Flex® 2850-00_100°C.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package/output_png/Kynar Flex® 2850-00_120°C.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/package/output_png/Kynar Flex® 2850-00_120°C.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package/output_png/Kynar Flex® 2850-00_140°C.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/package/output_png/Kynar Flex® 2850-00_140°C.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package/output_png/Kynar Flex® 2850-00_80°C.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/package/output_png/Kynar Flex® 2850-00_80°C.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package/output_png/Kynar® 6000 HD_-30°C.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/package/output_png/Kynar® 6000 HD_-30°C.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package/output_png/Kynar® 6000 HD_100°C.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/package/output_png/Kynar® 6000 HD_100°C.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package/output_png/Kynar® 6000 HD_120°C.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/package/output_png/Kynar® 6000 HD_120°C.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package/output_png/Kynar® 6000 HD_140°C.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/package/output_png/Kynar® 6000 HD_140°C.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package/output_png/Kynar® 6000 HD_23°C.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/package/output_png/Kynar® 6000 HD_23°C.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package/output_png/Kynar® 6000 HD_60°C.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/package/output_png/Kynar® 6000 HD_60°C.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package/output_png/Kynar® 6000 HD_80°C.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/package/output_png/Kynar® 6000 HD_80°C.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package/output_png/Kynar® 710_-30°C.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package/output_png/Kynar® 710_100°C.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package/output_png/Kynar® 710_120°C.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package/output_png/Kynar® 710_140°C.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package/output_png/Kynar® 710_23°C.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package/output_png/Kynar® 710_60°C.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package/output_png/Kynar® 710_80°C.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package/output_png/Kynar® 720_-30°C.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/package/output_png/Kynar® 720_-30°C.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package/output_png/Kynar® 720_100°C.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/package/output_png/Kynar® 720_100°C.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package/output_png/Kynar® 720_120°C.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/package/output_png/Kynar® 720_120°C.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package/output_png/Kynar® 720_140°C.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/package/output_png/Kynar® 720_140°C.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package/output_png/Kynar® 720_23°C.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/package/output_png/Kynar® 720_23°C.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package/output_png/Kynar® 720_60°C.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/package/output_png/Kynar® 720_60°C.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package/output_png/Kynar® 720_80°C.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/package/output_png/Kynar® 720_80°C.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package/points/Kynar Flex® 2750-01_Stress-strain.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/package/points/Kynar Flex® 2750-01_Stress-strain.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package/points/Kynar Flex® 2800-00_Stress-strain.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/package/points/Kynar Flex® 2800-00_Stress-strain.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package/points/Kynar Flex® 2850-00_Stress-strain.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/package/points/Kynar Flex® 2850-00_Stress-strain.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package/points/Kynar® 6000 HD_Stress-strain.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/package/points/Kynar® 6000 HD_Stress-strain.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package/points/Kynar® 710_Stress-strain.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package/points/Kynar® 720_Stress-strain.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/package/points/Kynar® 720_Stress-strain.xlsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="2" />
+  </component>
+  <component name="ProjectId" id="2MqcMR7lVSp4MdBhWZ45kFpIaV3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/4313" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\EWH_1\OneDrive\Documents\GitHub\Squidstone33\package" />
+      <recent name="C:\Users\EWH_1\OneDrive\Documents\GitHub\Squidstone33\package\icons" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.homepage">
+    <configuration name="extra" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Squidstone33" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/package" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/package/extra.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="homepage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Squidstone33" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/package" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/package/homepage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="select" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Squidstone33" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/package" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/package/select.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="selenium_utils" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Squidstone33" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/package" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/package/selenium_utils.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.homepage" />
+        <item itemvalue="Python.select" />
+        <item itemvalue="Python.extra" />
+        <item itemvalue="Python.selenium_utils" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72902107-4f42-48c0-ad10-e019a527ebff" name="Changes" comment="" />
+      <created>1678498505796</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678498505796</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/package/select.py</url>
+          <line>154</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

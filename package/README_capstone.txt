@@ -1,0 +1,6 @@
+-Enter a material into the search bar provided and press the search button or press enter.
+-Please wait a few minutes for the program to run
+-The main window may say "Not Responding" but the software is likely working as intended
+-A new window will appear with graphs displayed 
+-You can use the "Next" or "Previous" buttons to navigate the search results
+-Click on the graph that you want the data points for and it will open up using your default editor for csv files.
