@@ -1,7 +1,7 @@
 # Mechanical Data Generation For Machine Learning
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 
-#About
+# About
 This is a Python tool that gathers stress-strain data of a requested material through the use of web scraping. After entering a material name into the search bar, it will search for the material's corresponding stress-strain graphs. Selecting any graph will open up the corresponding csv file.
 
 # Usage
